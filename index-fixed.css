@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+}
+
+p {
+    font-family: 'Montserrat';
+    margin: 0;
+    font-size: 12px;
+}
+
+.bold-text {
+    font-weight: 600;
+}
+
+.regular-text {
+    font-weight: 400;
+}
